@@ -1,0 +1,11 @@
+id,season,team1,team2,toss_winner,toss_decision,winner,player_of_match,venue,win_by_runs,win_by_wickets
+1,2020,MI,CSK,CSK,field,CSK,Ambati Rayudu,Abu Dhabi,0,5
+2,2020,DC,KXIP,KXIP,field,DC,Marcus Stoinis,Dubai,0,0
+3,2020,SRH,RCB,RCB,field,RCB,Devdutt Padikkal,Dubai,10,0
+4,2020,CSK,RR,CSK,bat,RR,Sanju Samson,Sharjah,16,0
+5,2020,MI,KKR,KKR,field,MI,Rohit Sharma,Abu Dhabi,49,0
+6,2020,KXIP,RCB,RCB,field,KXIP,KL Rahul,Dubai,97,0
+7,2020,DC,CSK,CSK,field,DC,Prithvi Shaw,Dubai,44,0
+8,2020,KKR,SRH,SRH,field,KKR,Shubman Gill,Abu Dhabi,7,0
+9,2020,RR,KXIP,RR,field,RR,Sanju Samson,Sharjah,4,0
+10,2020,RCB,MI,MI,field,RCB,AB de Villiers,Dubai,0,2
